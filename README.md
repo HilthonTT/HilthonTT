@@ -13,5 +13,7 @@
 </div>
 
 <p align="center">
-  **`Fullstack Developper & Junior Data Scientist`**
+  
+**`Fullstack Developper & Junior Data Scientist`**
+
 </p>
