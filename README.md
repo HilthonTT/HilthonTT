@@ -11,3 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" style="margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="60" height="60"/>
 </div>
+
+<p align="center">
+  **`Fullstack Developper & Junior Data Scientist`**
+</p>
