@@ -12,8 +12,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="60" height="60"/>
 </div>
 
-<p align="center">
+# 🚀 Hilthon
   
 **`Fullstack Developper & Junior Data Scientist`**
 
-</p>
+![Hilthon's Github stats](https://github-readme-stats.vercel.app/api?username=hilthontt&show_icons=true&theme=radical)
