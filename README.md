@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/HilthonTT/HilthonTT/assets/118371200/02cb73fb-27c1-4884-908b-0f2253a76cc9" alt="giphy" style="border-radius: 15px;">
+  <img src="https://github.com/HilthonTT/HilthonTT/assets/118371200/3b70d7e9-ec09-48ec-a995-3587b8d58bb5" alt="giphy" style="border-radius:50%">
 </p>
+
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" style="margin-right: 20px;"/>
