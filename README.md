@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/HilthonTT/HilthonTT/assets/118371200/3b70d7e9-ec09-48ec-a995-3587b8d58bb5" alt="giphy" style="border-radius:50%">
-</p>
-
+<img src="https://github.com/HilthonTT/HilthonTT/assets/118371200/aa98feca-bd07-4c3c-861c-88689456c796" style="width:100%;">
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" style="margin-right: 20px;"/>
