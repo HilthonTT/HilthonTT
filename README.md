@@ -1,8 +1,6 @@
-
-
-# 🚀 Hilthon
+# 🪕 Hilthon
   
-**`Fullstack Developper & Junior Data Scientist`**
+**`Fullstack Software Developper`**
 
 ![Hilthon's Github stats](https://github-readme-stats.vercel.app/api?username=hilthontt&show_icons=true&theme=radical)
 
