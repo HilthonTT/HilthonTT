@@ -1,80 +1,30 @@
-<div align="center">
+# 🪕 hilthon
 
-# 🪕 Hilthon
+### a bit about me
+Hey, Hilthon — a self-taught developer from the Belgium. I write
+code because getting a machine to do exactly what you wrote is one of the few
+things in life that actually responds to careful thinking, and I find that
+deeply comforting.
 
-**Fullstack Software Developer**
-*Industrial automation by day, distributed systems by night.*
+About three years in now, mostly across Go, C#, TypeScript and Python
 
-[![Portfolio](https://img.shields.io/badge/hilthon.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hilthon.me)
-[![GitHub followers](https://img.shields.io/github/followers/HilthonTT?style=for-the-badge&logo=github&color=ff79c6&logoColor=white&labelColor=282a36)](https://github.com/HilthonTT)
+### what I'm hacking on
+- [**sakura-lang**](https://github.com/HilthonTT/sakura-lang) — a Lua-flavored programming language in Go. Lexer is done, parser is the next mountain.
+- [**TheMonitorBot**](https://github.com/HilthonTT/TheMonitorBot) — A discord.py 2.x bot with rich /userinfo, full moderation, automod with leet-speak-aware language filter, a spam-bot honeypot, and a persistent-button support-ticket system. State is stored in SQLite via aiosqlite.
+- [**OrkShop**](https://github.com/HilthonTT/OrkShop) — A ECommerce site with CMS
+- [**hilthon-terminal**](https://hilthon-terminal.vercel.app) — terminal-themed portfolio in Next.js. Type `help` when you land.
 
-</div>
+### nerd corner
+- **machine languages** :: Go and C# share custody, TypeScript visits on weekends, Python lives in the guesthouse
+- **instruments** :: banjo, bass, electric guitar
+- **editor** :: Neovim. fight me.
 
----
-
-### 👋 About
-
-Self-taught developer based in the Ardennes, Belgium. I work at the intersection of software and manufacturing — industrial project management by day, building languages, real-time systems, and TUIs in my spare time.
-
-I read about consciousness and formal systems for fun, play three string instruments badly, and write in `fr` / `nl` / `de` / `en` depending on the day.
-
----
-
-### 🛠️ Stack
-
-**Languages**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Backend**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**DevOps & Observability**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
----
-
-### 📊 Stats
-
-<div align="center">
-
-![Hilthon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilthontt&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hilthontt&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-[![Hilthon's GitHub streak](https://streak-stats.demolab.com?user=hilthontt&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+### the vibe
+write code that explains itself, ship things that don't fall over, and keep
+asking why the universe bothers being here at all 🌌
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HilthonTT/HilthonTT/assets/118371200/b45df2a6-ee23-4379-ae10-5518ea09360e" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/HilthonTT/HilthonTT/assets/118371200/a5d9352c-247c-42cb-9956-0047fb2e5ea4" />
   <img alt="github-snake" src="https://github.com/HilthonTT/HilthonTT/assets/118371200/b45df2a6-ee23-4379-ae10-5518ea09360e" />
 </picture>
-
----
-
-<div align="center">
-
-> *"The most merciful thing in the world is the inability of the human mind to correlate all its contents."*
-> — H. P. Lovecraft (which is roughly how I feel about my open tabs)
-
-</div>
