@@ -13,6 +13,7 @@ About three years in now, mostly across Go, C#, TypeScript and Python
 - [**TheMonitorBot**](https://github.com/HilthonTT/TheMonitorBot) — A discord.py 2.x bot with rich /userinfo, full moderation, automod with leet-speak-aware language filter, a spam-bot honeypot, and a persistent-button support-ticket system. State is stored in SQLite via aiosqlite.
 - [**OrkShop**](https://github.com/HilthonTT/OrkShop) — A ECommerce site with CMS
 - [**hilthon-terminal**](https://hilthon-terminal.vercel.app) — terminal-themed portfolio in Next.js. Type `help` when you land.
+- [**Nuntius**](https://github.com/HilthonTT/Nuntius) — A message broker coded in LUA
 
 ### nerd corner
 - **machine languages** :: Go and C# share custody, TypeScript visits on weekends, Python lives in the guesthouse
