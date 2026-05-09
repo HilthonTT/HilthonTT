@@ -1,7 +1,7 @@
 # 🪕 hilthon
 
 ### a bit about me
-Hey, Hilthon — a self-taught developer from the Belgium. I write
+Hey, I'm Hilthon — a self-taught developer from the Belgium. I write
 code because getting a machine to do exactly what you wrote is one of the few
 things in life that actually responds to careful thinking, and I find that
 deeply comforting.
