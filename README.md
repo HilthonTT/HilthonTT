@@ -20,17 +20,6 @@ I read about consciousness and formal systems for fun, play three string instrum
 
 ---
 
-### 🌱 Currently building
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**sakura-lang**](https://github.com/HilthonTT/sakura-lang) | A Lua-inspired programming language. Lexer ✅ — parser next. | Go |
-| [**Visper**](https://github.com/HilthonTT/visper) | Anonymous, ephemeral real-time chat with a TUI client. | Go · Gin · WebSockets · Redis · Bubble Tea |
-| [**Microstock**](https://github.com/HilthonTT/microstock) | Stock market analysis with MACD, RSI, and clean architecture. | C# · .NET · CQRS · Finnhub |
-| [**Hilthon-Portfolio-v2**](https://github.com/HilthonTT/Hilthon-Portfolio-v2) | Terminal-style portfolio. Try `help` when you visit. | Next.js · tRPC · TypeScript |
-
----
-
 ### 🛠️ Stack
 
 **Languages**
