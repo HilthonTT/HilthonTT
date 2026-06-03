@@ -9,7 +9,7 @@ deeply comforting.
 About three years in now, mostly across Go, C#, TypeScript and Python
 
 ### what I'm hacking on
-- [**sakura-lang**](https://github.com/HilthonTT/sakura-lang) — a Lua-flavored programming language in Go. Lexer is done, parser is the next mountain.
+- [**LuaScript**](https://github.com/HilthonTT/LuaScript) — a Lua-flavored programming language in Go. Lexer is done, parser is the next mountain.
 - [**TheMonitorBot**](https://github.com/HilthonTT/TheMonitorBot) — A discord.py 2.x bot with rich /userinfo, full moderation, automod with leet-speak-aware language filter, a spam-bot honeypot, and a persistent-button support-ticket system. State is stored in SQLite via aiosqlite.
 - [**IronDB**](https://github.com/HilthonTT/IronDB) — A NoSQL Database in C#
 - [**hilthon-terminal**](https://hilthon-terminal.vercel.app) — terminal-themed portfolio in Next.js. Type `help` when you land.
