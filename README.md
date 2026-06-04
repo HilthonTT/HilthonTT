@@ -1,10 +1,8 @@
 # 🪕 hilthon
 
 ### a bit about me
-Hey, I'm Hilthon — a self-taught developer from the Belgium. I write
-code because getting a machine to do exactly what you wrote is one of the few
-things in life that actually responds to careful thinking, and I find that
-deeply comforting.
+Hey, I'm Hilthon — a self-taught developer. 
+I just code and do a lil gaming, that's all
 
 About three years in now, mostly across Go, C#, TypeScript and Python
 
