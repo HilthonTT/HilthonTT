@@ -8,10 +8,10 @@ About three years in now, mostly across Go, C#, TypeScript and Python
 
 ### what I'm hacking on
 - [**LuaScript**](https://github.com/HilthonTT/LuaScript) — a Lua-flavored programming language in Go. Lexer is done, parser is the next mountain.
-- [**TheMonitorBot**](https://github.com/HilthonTT/TheMonitorBot) — A discord.py 2.x bot with rich /userinfo, full moderation, automod with leet-speak-aware language filter, a spam-bot honeypot, and a persistent-button support-ticket system. State is stored in SQLite via aiosqlite.
-- [**IronDB**](https://github.com/HilthonTT/IronDB) — A NoSQL Database in C#
+- [**MoonMQ**](https://github.com/HilthonTT/MoonMQ) — A Kafka clone written in LUA 5.4.
+- [**IronDB**](https://github.com/HilthonTT/IronDB) — A NoSQL Database in C#.
 - [**hilthon-terminal**](https://hilthon-terminal.vercel.app) — terminal-themed portfolio in Next.js. Type `help` when you land.
-- [**Codo**](https://github.com/HilthonTT/Codo) — a from-scratch multi-threaded HTTP/1.1 server written in C11
+- [**Codo**](https://github.com/HilthonTT/Codo) — a from-scratch multi-threaded HTTP/1.1 server written in C11.
 
 ### nerd corner
 - **machine languages** :: Go and C# share custody, TypeScript visits on weekends, Python lives in the guesthouse
