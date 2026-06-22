@@ -7,9 +7,9 @@ I just code and do a lil gaming, that's all
 About three years in now, mostly across Go, C#, TypeScript and Python
 
 ### what I'm hacking on
-- [**LuaScript**](https://github.com/HilthonTT/LuaScript) — a Lua-flavored programming language in Go. Lexer is done, parser is the next mountain.
-- [**MoonMQ**](https://github.com/HilthonTT/MoonMQ) — A Kafka clone written in LUA 5.4.
-- [**IronDB**](https://github.com/HilthonTT/IronDB) — A NoSQL Database in C#.
+- [**LuaScript**](https://github.com/HilthonTT/LuaScript) — a Lua-flavored programming language in Go for data science.
+- [**MoonMQ**](https://github.com/HilthonTT/MoonMQ) — a Kafka clone written in Lua 5.4.
+- [**IronDB**](https://github.com/HilthonTT/IronDB) — a NoSQL Database in C#.
 - [**hilthon-terminal**](https://hilthon-terminal.vercel.app) — terminal-themed portfolio in Next.js. Type `help` when you land.
 - [**Codo**](https://github.com/HilthonTT/Codo) — a from-scratch multi-threaded HTTP/1.1 server written in C11.
 
