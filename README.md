@@ -19,8 +19,7 @@ About three years in now, mostly across Go, C#, TypeScript and Python
 - **editor** :: Neovim. fight me.
 
 ### the vibe
-write code that explains itself, ship things that don't fall over, and keep
-asking why the universe bothers being here at all 🌌
+write code that explains itself, ship things that don't fall over.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HilthonTT/HilthonTT/assets/118371200/b45df2a6-ee23-4379-ae10-5518ea09360e" />
