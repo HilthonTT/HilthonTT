@@ -12,6 +12,7 @@ About three years in now, mostly across Go, C#, TypeScript and Python
 - [**IronDB**](https://github.com/HilthonTT/IronDB) — a NoSQL Database in C#.
 - [**hilthon-terminal**](https://hilthon-terminal.vercel.app) — terminal-themed portfolio in Next.js. Type `help` when you land.
 - [**Codo**](https://github.com/HilthonTT/Codo) — a from-scratch multi-threaded HTTP/1.1 server written in C11.
+- [**OpenChess**](https://github.com/HilthonTT/OpenChess) — a terminal chess game.
 - [**nanobyte-os**](https://github.com/HilthonTT/nanobyte-os) — following the nanobyte - Building an OS series
 
 ### nerd corner
