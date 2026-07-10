@@ -4,8 +4,6 @@
 Hey, I'm Hilthon — a self-taught developer. 
 I just code and do a lil gaming, that's all
 
-About three years in now, mostly across Go, C#, TypeScript and Python
-
 ### what I'm hacking on
 - [**LuaScript**](https://github.com/HilthonTT/LuaScript) — a Lua-flavored programming language in Go for data science.
 - [**MoonMQ**](https://github.com/HilthonTT/MoonMQ) — a Kafka clone written in Lua 5.4.
