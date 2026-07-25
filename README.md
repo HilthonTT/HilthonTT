@@ -5,23 +5,22 @@ Hey, I'm Hilthon — a self-taught developer.
 I just code and do a lil gaming, that's all
 
 ### what I'm hacking on
-- [**IronDB**](https://github.com/HilthonTT/IronDB) — a NoSQL Database in C#.
 - [**nanobyte-os**](https://github.com/HilthonTT/nanobyte-os) — following the nanobyte - Building an OS series.
 - [**SoftEngine**](https://github.com/HilthonTT/SoftEngine) — a CPU-only 3D software rasterizer in C#.
+- [**OpenChess**](https://github.com/HilthonTT/OpenChess) — a terminal chess game.
 
 ### shipped
 - [**LuaScript**](https://github.com/HilthonTT/LuaScript) — a Lua-flavored programming language in Go for data science.
 - [**MoonMQ**](https://github.com/HilthonTT/MoonMQ) — a Kafka clone written in Lua 5.4.
 - [**hilthon-terminal**](https://hilthon-terminal.vercel.app) — terminal-themed portfolio in Next.js. Type `help` when you land.
 - [**Codo**](https://github.com/HilthonTT/Codo) — a from-scratch multi-threaded HTTP/1.1 server written in C11.
-- [**OpenChess**](https://github.com/HilthonTT/OpenChess) — a terminal chess game.
 
 ### nerd corner
 - **machine languages** :: Go and C# share custody, TypeScript visits on weekends, Python lives in the guesthouse
 - **instruments** :: banjo, bass, electric guitar
 - **editor** :: Neovim. fight me.
-
 ### the vibe
+
 write code that explains itself, ship things that don't fall over.
 
 <picture>
