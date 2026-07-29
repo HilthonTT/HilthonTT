@@ -1,5 +1,9 @@
 # 🪕 hilthon
 
+```console
+$ curl -s https://raw.githubusercontent.com/HilthonTT/HilthonTT/master/hello.sh | sh
+```
+
 ### a bit about me
 Hey, I'm Hilthon — a self-taught developer. 
 I just code and do a lil gaming, that's all
