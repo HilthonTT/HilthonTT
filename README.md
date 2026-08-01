@@ -12,6 +12,7 @@ I just code and do a lil gaming, that's all
 - [**nanobyte-os**](https://github.com/HilthonTT/nanobyte-os) — following the nanobyte - Building an OS series.
 - [**SoftEngine**](https://github.com/HilthonTT/SoftEngine) — a CPU or GPU 3D software rasterizer in C#.
 - [**OpenChess**](https://github.com/HilthonTT/OpenChess) — a terminal chess game.
+- [**Minecraft**](https://github.com/HilthonTT/Minecraft) — a Minecraft clone.
 
 ### shipped
 - [**LuaScript**](https://github.com/HilthonTT/LuaScript) — a Lua-flavored programming language in Go for data science.
