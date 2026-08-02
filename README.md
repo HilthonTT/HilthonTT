@@ -10,23 +10,21 @@ I just code and do a lil gaming, that's all
 
 ### what I'm hacking on
 - [**nanobyte-os**](https://github.com/HilthonTT/nanobyte-os) — following the nanobyte - Building an OS series.
+
+### shipped
 - [**SoftEngine**](https://github.com/HilthonTT/SoftEngine) — a CPU or GPU 3D software rasterizer in C#.
 - [**OpenChess**](https://github.com/HilthonTT/OpenChess) — a terminal chess game.
 - [**Minecraft**](https://github.com/HilthonTT/Minecraft) — a Minecraft clone.
-
-### shipped
 - [**LuaScript**](https://github.com/HilthonTT/LuaScript) — a Lua-flavored programming language in Go for data science.
 - [**MoonMQ**](https://github.com/HilthonTT/MoonMQ) — a Kafka clone written in Lua 5.4.
 - [**hilthon-terminal**](https://hilthon-terminal.vercel.app) — terminal-themed portfolio in Next.js. Type `help` when you land.
 - [**Codo**](https://github.com/HilthonTT/Codo) — a from-scratch multi-threaded HTTP/1.1 server written in C11.
 
 ### nerd corner
-- **machine languages** :: Go and C# share custody, TypeScript visits on weekends, Python lives in the guesthouse
+- **machine languages** :: Go, C#, Python, Typescript, and others.
 - **instruments** :: banjo, bass, electric guitar
 - **editor** :: Neovim. fight me.
 ### the vibe
-
-write code that explains itself, ship things that don't fall over.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HilthonTT/HilthonTT/assets/118371200/b45df2a6-ee23-4379-ae10-5518ea09360e" />
