@@ -10,7 +10,7 @@ I just code and do a lil gaming, that's all
 
 ### what I'm hacking on
 - [**nanobyte-os**](https://github.com/HilthonTT/nanobyte-os) — following the nanobyte - Building an OS series.
-- [**audiaki**](https://github.com/HilthonTT/audiaki) — Capture-to-WAV recorder for Linux with a multi-track editor, live metering and a spectrum visualiser. Talks to PipeWire or ALSA.
+- [**audiaki**](https://github.com/HilthonTT/audiaki) — capture-to-wav recorder for Linux with a multi-track editor, live metering and a spectrum visualiser. Talks to PipeWire or ALSA.
 
 ### shipped
 - [**SoftEngine**](https://github.com/HilthonTT/SoftEngine) — a CPU or GPU 3D software rasterizer in C#.
