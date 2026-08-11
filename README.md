@@ -10,7 +10,7 @@ I just code and do a lil gaming, that's all
 
 ### random projects
 - [**nanobyte-os**](https://github.com/HilthonTT/nanobyte-os) — following the nanobyte - Building an OS series.
-- [**audiaki**](https://github.com/HilthonTT/audiaki) — capture-to-wav recorder for Linux with a multi-track editor, live metering and a spectrum visualiser. Talks to PipeWire or ALSA.
+- [**audiaki**](https://github.com/HilthonTT/audiaki) — capture-to-wav recorder for Linux with a multi-track editor, live metering and a spectrum visualiser.
 - [**SoftEngine**](https://github.com/HilthonTT/SoftEngine) — a CPU or GPU 3D software rasterizer in C#.
 - [**OpenChess**](https://github.com/HilthonTT/OpenChess) — a terminal chess game.
 - [**Minecraft**](https://github.com/HilthonTT/Minecraft) — a Minecraft clone.
