@@ -14,7 +14,7 @@ I just code and do a lil gaming, that's all
 - [**SoftEngine**](https://github.com/HilthonTT/SoftEngine) — a CPU or GPU 3D software rasterizer in C#.
 - [**OpenChess**](https://github.com/HilthonTT/OpenChess) — a terminal chess game.
 - [**Minecraft**](https://github.com/HilthonTT/Minecraft) — a Minecraft clone.
-- [**LuaScript**](https://github.com/HilthonTT/LuaScript) — a Lua-flavored programming language in Go for data science.
+- [**LuaScript**](https://github.com/HilthonTT/LuaScript) — a Lua-flavored language with a stack-based virtual machine and Luau-style gradual types.
 - [**MoonMQ**](https://github.com/HilthonTT/MoonMQ) — a Kafka clone written in Lua 5.4.
 - [**hilthon-terminal**](https://hilthon-terminal.vercel.app) — terminal-themed portfolio in Next.js. Type `help` when you land.
 - [**Codo**](https://github.com/HilthonTT/Codo) — a from-scratch multi-threaded HTTP/1.1 server written in C11.
