@@ -9,6 +9,7 @@ Hey, I'm Hilthon — a self-taught developer.
 I just code and do a lil gaming, that's all
 
 ### random projects
+- [**TinyDiffusion**](https://github.com/HilthonTT/TinyDiffusion) — a PyTorch implementation of a diffusion model for image generation.
 - [**nanobyte-os**](https://github.com/HilthonTT/nanobyte-os) — following the nanobyte - Building an OS series.
 - [**audiaki**](https://github.com/HilthonTT/audiaki) — capture-to-wav recorder for Linux with a multi-track editor, live metering and a spectrum visualiser.
 - [**SoftEngine**](https://github.com/HilthonTT/SoftEngine) — a CPU or GPU 3D software rasterizer in C#.
