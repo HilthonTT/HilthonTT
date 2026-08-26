@@ -4,7 +4,7 @@ Self-taught developer. I mostly build things from scratch to find out how they w
 languages, servers, renderers, operating systems. Some gaming in between.
 
 - **Tech** — Go, C#, C, Python, TypeScript, Lua
-- **Editor** — Neovim, Visual Studio
+- **Editor** — Visual Studio, Visual Studio Code
 - **Off-screen** — banjo, bass, electric guitar
 
 ## Projects
