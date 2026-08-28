@@ -10,13 +10,14 @@ languages, servers, renderers, operating systems. Some gaming in between.
 ## Projects
 
 **Systems & languages**
+- [phantom](https://github.com/HilthonTT/phantom) — matrix homeserver in Rust (a conduwuit port) with a Go terminal admin console.
 - [Codo](https://github.com/HilthonTT/Codo) — multi-threaded HTTP/1.1 server written from scratch in C11.
-- [LuaScript](https://github.com/HilthonTT/LuaScript) — Lua-flavored language with a stack-based VM and Luau-style gradual types.
+- [LuaScript](https://github.com/HilthonTT/LuaScript) — lua-flavored language with a stack-based VM and Luau-style gradual types.
 - [MoonMQ](https://github.com/HilthonTT/MoonMQ) — log-structured, partitioned message broker in pure Lua.
 - [nanobyte-os](https://github.com/HilthonTT/nanobyte-os) — an OS built along with the nanobyte series.
 
 **Graphics & ML**
-- [SoftEngine](https://github.com/HilthonTT/SoftEngine) — CPU/GPU 3D software rasterizer in C#.
+- [SoftEngine](https://github.com/HilthonTT/SoftEngine) — cpu/gpu 3D software rasterizer in C#.
 - [TinyDiffusion](https://github.com/HilthonTT/TinyDiffusion) — diffusion model for image generation, in PyTorch.
 - [Minecraft](https://github.com/HilthonTT/Minecraft) — a Minecraft clone.
 
