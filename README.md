@@ -21,20 +21,17 @@
 
 <p align="center">
 	<a href="https://github.com/lowlighter/metrics">
-		<img width="425" align="right" src="/github-metrics.svg" />
-	</a>
-	<!-- TODO: replace YOUR_DISCORD_ID (both places) and join https://discord.gg/lanyard so the card can see your status -->
-	<a href="https://discord.com/users/hilthon">
-		<img
-			width="380"
-			height="195"
-			align="left"
-			src="https://lanyard.cnrad.dev/api/hilthon?bg=FFFFFF00&animated=true&idleMessage=Probably%20playing%20the%20banjo&borderRadius=30px"
-		/>
+		<img width="100%" src="/github-metrics.svg" alt="GitHub metrics" />
 	</a>
 </p>
 
-<br clear="both" />
+<!-- Discord status card, re-enable once you have your numeric Discord user ID (and have joined https://discord.gg/lanyard):
+<p align="center">
+	<a href="https://discord.com/users/YOUR_DISCORD_ID">
+		<img width="380" height="195" src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?bg=FFFFFF00&animated=true&idleMessage=Probably%20playing%20the%20banjo&borderRadius=30px" />
+	</a>
+</p>
+-->
 
 Self-taught dev. I rebuild things from scratch to see how they work: languages, servers, renderers, operating systems.<br>
 Off-screen: banjo, bass, electric guitar 🪕
