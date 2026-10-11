@@ -38,10 +38,3 @@ $ curl -s https://raw.githubusercontent.com/HilthonTT/HilthonTT/main/hello.sh | 
 ```
 
 ![github-snake](https://github.com/HilthonTT/HilthonTT/assets/118371200/b45df2a6-ee23-4379-ae10-5518ea09360e)
-
-<p align="center">
-	<img
-		align="center"
-		src="https://komarev.com/ghpvc/?username=HilthonTT&style=flat-square"
-	/>
-</p>
